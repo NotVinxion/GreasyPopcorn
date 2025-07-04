@@ -1,5 +1,3 @@
 {
-  "users": {
-    "elzirm"
-  }
+  "users": ["elzirm", "anotherUser", "someoneElse"]
 }
